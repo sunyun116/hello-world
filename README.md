@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-I hope I can learning programming well.
+I hope I can learn programming well.
